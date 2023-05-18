@@ -1,2 +1,2 @@
 # phishing.verifications.zip
-A phishing domain for researching and investigation
+A phishing domain for researching and investigation.
